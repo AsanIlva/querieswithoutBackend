@@ -16,7 +16,7 @@ When you arrive at the landing page click the "View Highscores" button to check 
 
 The timer starts When you click the "Start Quiz". Answering quickly and correctly results in a higher score. Answering incorrectly results in a time penalty and a lower score.
 
-**Click [here](https://adenasgittinit.github.io/JS-Code-Quiz/) to get started.**
+**Click [here](https://asanilva.github.io/querieswithoutBackend/) to get started.**
 
 ## Technologies Used
 
@@ -31,4 +31,4 @@ The timer starts When you click the "Start Quiz". Answering quickly and correctl
 
 ## Contributors
 
-- [Adena McGibbon](https://github.com/AdenasGittIt)
+- [Pasan De Silva](https://github.com/AsanIlva)
